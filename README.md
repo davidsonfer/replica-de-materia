@@ -1,2 +1,2 @@
-# replica-de-materia
-Página de reportagem replicada com HTML e CSS.
+# replica-de-materia 
+Matéria replicada com HTML e CSS.
